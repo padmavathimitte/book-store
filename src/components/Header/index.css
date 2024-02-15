@@ -60,3 +60,10 @@
     text-decoration: none;
     color: #000;
 }
+
+@media screen and (min-width: 768px) {
+    .icon-name{
+        display: inline;
+        margin-left: 5px;
+    }
+}
